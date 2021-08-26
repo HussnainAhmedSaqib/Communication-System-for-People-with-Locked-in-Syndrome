@@ -1,0 +1,3 @@
+This was my Final Year Project. A Communication System for People suffering with Locked in Syndrome anyone suffering with a form of paralysis could use this 
+software to communicate with everyone around him using eyeblinks. Using Dlib and OpenCv eye blinks were being converted to text. The 68 Facial Landmark detector 
+model was used.
